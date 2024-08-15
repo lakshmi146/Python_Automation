@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3c099f6-c55a-4c98-98f4-5fa7dc9bafe0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python4Xlearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_15082024/Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_15082024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_15082024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_15082024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_15082024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_15082024/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_15082024/Lab007Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_15082024/Lab008formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_15082024/Lab009useriptable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_15082024/Lab010List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_15082024/Lab011string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_15082024/Lab012twoinputoperators.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2kgjIupyBX5SsCGsnZhuT9VPYLE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007Calculator.executor": "Run",
+    "Python.Lab008formatting.executor": "Run",
+    "Python.Lab009useriptable.executor": "Run",
+    "Python.Lab010List.executor": "Run",
+    "Python.Lab011string.executor": "Run",
+    "Python.Lab012twoinputoperators.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3c099f6-c55a-4c98-98f4-5fa7dc9bafe0" name="Changes" comment="" />
+      <created>1723712037925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723712037925</updated>
+    </task>
+    <servers />
+  </component>
+</project>

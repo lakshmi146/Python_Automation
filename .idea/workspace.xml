@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c099f6-c55a-4c98-98f4-5fa7dc9bafe0" name="Changes" comment="17th_august_files" />
+    <list default="true" id="c3c099f6-c55a-4c98-98f4-5fa7dc9bafe0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab001task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab002task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab003task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab004task6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lakshmi-prasanna-k"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lakshmi-prasanna-k&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lakshmi-prasanna-k/python4Xlearning.git",
-    "accountId": "e9d9b4d0-3ab1-492a-bded-e8d60c3163d9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lakshmi-prasanna-k/python4Xlearning.git&quot;,
+    &quot;accountId&quot;: &quot;e9d9b4d0-3ab1-492a-bded-e8d60c3163d9&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kgjIupyBX5SsCGsnZhuT9VPYLE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,28 +49,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab001.executor": "Run",
-    "Python.Lab001task3.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab002task4.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab003task5.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab004task6.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007Calculator.executor": "Run",
-    "Python.Lab008formatting.executor": "Run",
-    "Python.Lab009useriptable.executor": "Run",
-    "Python.Lab010List.executor": "Run",
-    "Python.Lab011string.executor": "Run",
-    "Python.Lab012twoinputoperators.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004task6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008formatting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009useriptable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012twoinputoperators.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -129,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723903799914</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="17th_august_files">
+      <option name="closed" value="true" />
+      <created>1723904215949</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723904215949</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

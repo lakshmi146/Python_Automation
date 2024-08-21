@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c099f6-c55a-4c98-98f4-5fa7dc9bafe0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab001task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab002task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab003task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab004task6.py" afterDir="false" />
+    <list default="true" id="c3c099f6-c55a-4c98-98f4-5fa7dc9bafe0" name="Changes" comment="17th_august_files">
+      <change afterPath="$PROJECT_DIR$/EX_20082024/Leapyearcheckertask007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_20082024/fizzbuzztask009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_20082024/traingleclassifiertask008.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,28 +48,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001task3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002task4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003task5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004task6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008formatting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009useriptable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012twoinputoperators.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001.executor": "Run",
+    "Python.Lab001task3.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab002task4.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab003task5.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab004task6.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007Calculator.executor": "Run",
+    "Python.Lab008formatting.executor": "Run",
+    "Python.Lab009useriptable.executor": "Run",
+    "Python.Lab010List.executor": "Run",
+    "Python.Lab011string.executor": "Run",
+    "Python.Lab012twoinputoperators.executor": "Run",
+    "Python.Leapyearcheckertask007.executor": "Run",
+    "Python.fizzbuzztask009.executor": "Run",
+    "Python.traingleclassifiertask008.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -143,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723904215949</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="17th_august_files">
+      <option name="closed" value="true" />
+      <created>1723904986154</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723904986154</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -4,10 +4,91 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c099f6-c55a-4c98-98f4-5fa7dc9bafe0" name="Changes" comment="17th_august_files">
-      <change afterPath="$PROJECT_DIR$/EX_20082024/Leapyearcheckertask007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_20082024/fizzbuzztask009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_20082024/traingleclassifiertask008.py" afterDir="false" />
+    <list default="true" id="c3c099f6-c55a-4c98-98f4-5fa7dc9bafe0" name="Changes" comment="20th_august_files">
+      <change afterPath="$PROJECT_DIR$/EX_20082024/Lab037condandloops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_20082024/Lab038assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_20082024/Lab039fimdmaxnumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_20082024/Lab040maxbet3numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_20082024/Lab041gradecalc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_20082024/Lab042gradecalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_20082024/Lab043floattable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_20082024/Lab044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_08082024/Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_08082024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10082024/Lab0010inttype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10082024/Lab0011longvariablename.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10082024/Lab0013boolean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10082024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10082024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10082024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10082024/Lab007printmaxnum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10082024/Lab008keywordsidentifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10082024/Lab009variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10082024/Lab012operatorsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10082024/Lab6maxnumbettwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_13082024/Lab0014basicprint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_13082024/Lab0015maxprebuilfunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_13082024/Lab0016datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_13082024/Lab0017variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_13082024/Lab0018powabs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_13082024/Lab0019identifierules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_13082024/Lab0020longvariablename.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_13082024/Lab0021userinput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_13082024/Lab0022userinputoperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_13082024/Lab0023formattednumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_13082024/Lab0024list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_13082024/Lab0025strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab0026inputvariable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab0027literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab0028escapesequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab0029operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab0030arthoperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab0031Quotientreminder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab0032operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab0033notoperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab0034ternaryoperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab035areaofcircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17082024/Lab036importmath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab045loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab046rangeloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab047irange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab048irange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab049range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab050whileloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab052whileloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab053whileloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab054break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab055breakbasedonconditio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab056breakcond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab057breakirange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab058continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab059matchstatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_22082024/Lab060input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24082024/Lab061funtions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24082024/Lab062def.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24082024/Lab063defandcall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24082024/Lab064def_call.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24082024/Lab065fns_argument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24082024/Lab066def_greet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24082024/Lab067userdefined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24082024/Lab068sumof_3numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24082024/Lab069sumof_2numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24082024/Lab070def_sumof_3numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24082024/Lab071def_sumof_3numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24082024/Lab072def_print_arg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24082024/task011_fibnosci_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/read me" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/task001_mul_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/task002_math_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/task003_operators" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/task004_pi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/task005_greater_lesser_equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/task006_square_cube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/task007_leap_yearchecker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/task008_triangle_classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/task009_fizzbuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/task010_factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/task011_fibnossi_series.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +149,7 @@
     "Python.Lab012twoinputoperators.executor": "Run",
     "Python.Leapyearcheckertask007.executor": "Run",
     "Python.fizzbuzztask009.executor": "Run",
+    "Python.task011_fibnossi_series.executor": "Run",
     "Python.traingleclassifiertask008.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -153,12 +235,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723904986154</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="20th_august_files">
+      <option name="closed" value="true" />
+      <created>1724221749597</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724221749597</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10th_august_files" />
     <MESSAGE value="17th_august_files" />
-    <option name="LAST_COMMIT_MESSAGE" value="17th_august_files" />
+    <MESSAGE value="20th_august_files" />
+    <option name="LAST_COMMIT_MESSAGE" value="20th_august_files" />
   </component>
 </project>

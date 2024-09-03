@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3c099f6-c55a-4c98-98f4-5fa7dc9bafe0" name="Changes" comment="AUG_files_3sep">
+      <change afterPath="$PROJECT_DIR$/SEP_Ex/Ex_03092024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,53 +46,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Accessing_list_elements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001task3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002task4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003task5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004task6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008formatting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009useriptable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012twoinputoperators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab073list_append.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab075list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab079_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab082_decorator2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab095_pop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab097_list_mutable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab098_tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab099_search_tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab100_tuple_concatinate.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab101_SET.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab102_tuple_set.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab104_keyandvalue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Leapyearcheckertask007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.adding_elements_to_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.creating_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fizzbuzztask009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modify_elements_with_user_inputs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modify_multiple_elements_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modify_multiple_elements_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modifying_list_elements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.removing_elements_from_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task011_fibnossi_series.executor&quot;: &quot;Run&quot;,
-    &quot;Python.traingleclassifiertask008.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
+    "Notification.DoNotAsk-Vcs Important Messages": "true",
+    "Python.Accessing_list_elements.executor": "Run",
+    "Python.Lab001.executor": "Run",
+    "Python.Lab001task3.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab002task4.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab003task5.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab004task6.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007Calculator.executor": "Run",
+    "Python.Lab008formatting.executor": "Run",
+    "Python.Lab009useriptable.executor": "Run",
+    "Python.Lab010List.executor": "Run",
+    "Python.Lab011string.executor": "Run",
+    "Python.Lab012twoinputoperators.executor": "Run",
+    "Python.Lab073list_append.executor": "Run",
+    "Python.Lab075list.executor": "Run",
+    "Python.Lab079_list.executor": "Run",
+    "Python.Lab082_decorator2.executor": "Run",
+    "Python.Lab095_pop.executor": "Run",
+    "Python.Lab097_list_mutable.executor": "Run",
+    "Python.Lab098_tuple.executor": "Run",
+    "Python.Lab099_search_tuple.executor": "Run",
+    "Python.Lab100_tuple_concatinate.executor": "Run",
+    "Python.Lab101_SET.executor": "Run",
+    "Python.Lab102_tuple_set.executor": "Run",
+    "Python.Lab104_keyandvalue.executor": "Run",
+    "Python.Leapyearcheckertask007.executor": "Run",
+    "Python.adding_elements_to_list.executor": "Run",
+    "Python.creating_list.executor": "Run",
+    "Python.fizzbuzztask009.executor": "Run",
+    "Python.list_comprehension.executor": "Run",
+    "Python.modify_elements_with_user_inputs.executor": "Run",
+    "Python.modify_multiple_elements_1.executor": "Run",
+    "Python.modify_multiple_elements_2.executor": "Run",
+    "Python.modifying_list_elements.executor": "Run",
+    "Python.removing_elements_from_list.executor": "Run",
+    "Python.task011_fibnossi_series.executor": "Run",
+    "Python.traingleclassifiertask008.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lakshmi.prasanna\PycharmProjects\python4Xlearning\AUG_Ex" />
@@ -290,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725341228251</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="AUG_files_3sep">
+      <option name="closed" value="true" />
+      <created>1725350104480</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725350104480</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

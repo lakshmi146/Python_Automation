@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c099f6-c55a-4c98-98f4-5fa7dc9bafe0" name="Changes" comment="3sep" />
+    <list default="true" id="c3c099f6-c55a-4c98-98f4-5fa7dc9bafe0" name="Changes" comment="3sep">
+      <change afterPath="$PROJECT_DIR$/AUG_Ex/Ex_31082024/Lab106_attributes_behaviors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AUG_Ex/Ex_31082024/Lab107_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AUG_Ex/Ex_31082024/Lab108_class_dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AUG_Ex/Ex_31082024/Lab109_constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AUG_Ex/Ex_31082024/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +83,9 @@
     "Python.Lab101_SET.executor": "Run",
     "Python.Lab102_tuple_set.executor": "Run",
     "Python.Lab104_keyandvalue.executor": "Run",
+    "Python.Lab107_class.executor": "Run",
+    "Python.Lab108_class_dog.executor": "Run",
+    "Python.Lab109_constructor.executor": "Run",
     "Python.Leapyearcheckertask007.executor": "Run",
     "Python.adding_elements_to_list.executor": "Run",
     "Python.creating_list.executor": "Run",
@@ -330,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725358870504</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="3sep">
+      <option name="closed" value="true" />
+      <created>1725359054008</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1725359054008</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
